@@ -1,0 +1,1550 @@
+fileFormatVersion: 2
+guid: 637addd5cd8330440a6e57ca325a9d1a
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: aa
+    100002: BaiMa
+    100004: BaiMa_zhan
+    100006: body
+    100008: CENTER_A
+    100010: CENTER_A 1
+    100012: CENTER_B
+    100014: CENTER_B 1
+    100016: CHEST_A
+    100018: CHEST_A 1
+    100020: cluster10Handle
+    100022: cluster11Handle
+    100024: cluster12Handle
+    100026: cluster13Handle
+    100028: cluster14Handle
+    100030: cluster15Handle
+    100032: cluster1Handle
+    100034: cluster2Handle
+    100036: cluster3Handle
+    100038: cluster4Handle
+    100040: cluster6Handle
+    100042: cluster7Handle
+    100044: cluster8Handle
+    100046: cluster9Handle
+    100048: CONSTRAIN
+    100050: constrain
+    100052: constrain 1
+    100054: curve1
+    100056: curve3
+    100058: curve4
+    100060: curve5
+    100062: curve5 1
+    100064: curve5 2
+    100066: curve5 3
+    100068: curve5 4
+    100070: curve6
+    100072: curve6 1
+    100074: curve6 2
+    100076: curve6 3
+    100078: curve6 4
+    100080: dd
+    100082: deng_l
+    100084: deng_r
+    100086: ear_l
+    100088: ear_l 1
+    100090: ear_r
+    100092: ear_r 1
+    100094: Eye
+    100096: ffd1Base
+    100098: ffd1Lattice
+    100100: ffd2Base
+    100102: ffd2Lattice
+    100104: FOOT_LB
+    100106: FOOT_LB 1
+    100108: FOOT_LF
+    100110: FOOT_LF 1
+    100112: FOOT_RB
+    100114: FOOT_RB 1
+    100116: FOOT_RF
+    100118: FOOT_RF 1
+    100120: geo
+    100122: group14
+    100124: group15
+    100126: group16
+    100128: group17
+    100130: group18
+    100132: group20
+    100134: group22
+    100136: group23
+    100138: group24
+    100140: group25
+    100142: group26
+    100144: group27
+    100146: group29
+    100148: group29 1
+    100150: group29 2
+    100152: group29 3
+    100154: group29 4
+    100156: group29 5
+    100158: group29 6
+    100160: group29 7
+    100162: group29 8
+    100164: group3
+    100166: group30
+    100168: group31
+    100170: group31 1
+    100172: group31 2
+    100174: group31 3
+    100176: group32
+    100178: group33
+    100180: group34
+    100182: group34 1
+    100184: group34 2
+    100186: group35
+    100188: group36
+    100190: group37
+    100192: group38
+    100194: group4
+    100196: group40
+    100198: group41
+    100200: group42
+    100202: group43
+    100204: group44
+    100206: group45
+    100208: group46
+    100210: group47
+    100212: group48
+    100214: group5
+    100216: group55
+    100218: group56
+    100220: group57
+    100222: group58
+    100224: group59
+    100226: group6
+    100228: group60
+    100230: group69
+    100232: group7
+    100234: group70
+    100236: group71
+    100238: group77
+    100240: group78
+    100242: group79
+    100244: group8
+    100246: group80
+    100248: Hanches_dn
+    100250: Hanches_dn 1
+    100252: horse
+    100254: //RootNode
+    100256: jiangSheng
+    100258: JiangSheng_Ctl
+    100260: jiangSheng_L
+    100262: JiangSheng_R
+    100264: joint1
+    100266: joint10
+    100268: joint100
+    100270: joint101
+    100272: joint102
+    100274: joint103
+    100276: joint104
+    100278: joint105
+    100280: joint106
+    100282: joint107
+    100284: joint108
+    100286: joint109
+    100288: joint11
+    100290: joint110
+    100292: joint111
+    100294: joint112
+    100296: joint113
+    100298: joint114
+    100300: joint115
+    100302: joint116
+    100304: joint117
+    100306: joint118
+    100308: joint119
+    100310: joint12
+    100312: joint120
+    100314: joint121
+    100316: joint121 1
+    100318: joint122
+    100320: joint122 1
+    100322: joint123
+    100324: joint123 1
+    100326: joint124
+    100328: joint124 1
+    100330: joint125
+    100332: joint125 1
+    100334: joint126
+    100336: joint126 1
+    100338: joint127
+    100340: joint127 1
+    100342: joint128
+    100344: joint128 1
+    100346: joint13
+    100348: joint130
+    100350: joint131
+    100352: joint131 1
+    100354: joint132
+    100356: joint132 1
+    100358: joint133
+    100360: joint133 1
+    100362: joint134
+    100364: joint134 1
+    100366: joint135
+    100368: joint135 1
+    100370: joint136
+    100372: joint136 1
+    100374: joint137
+    100376: joint137 1
+    100378: joint139
+    100380: joint14
+    100382: joint14 1
+    100384: joint140
+    100386: joint140 1
+    100388: joint141
+    100390: joint141 1
+    100392: joint142
+    100394: joint142 1
+    100396: joint143
+    100398: joint143 1
+    100400: joint144
+    100402: joint144 1
+    100404: joint145
+    100406: joint145 1
+    100408: joint146
+    100410: joint146 1
+    100412: joint15
+    100414: joint156
+    100416: joint16
+    100418: joint166
+    100420: joint17
+    100422: joint176
+    100424: joint18
+    100426: joint187
+    100428: joint19
+    100430: joint2
+    100432: joint20
+    100434: joint21
+    100436: joint22
+    100438: joint23
+    100440: joint24
+    100442: joint25
+    100444: joint26
+    100446: joint27
+    100448: joint28
+    100450: joint29
+    100452: joint29 1
+    100454: joint3
+    100456: joint30
+    100458: joint30 1
+    100460: joint31
+    100462: joint31 1
+    100464: joint32
+    100466: joint32 1
+    100468: joint33
+    100470: joint33 1
+    100472: joint34
+    100474: joint34 1
+    100476: joint35
+    100478: joint35 1
+    100480: joint4
+    100482: joint45
+    100484: joint46
+    100486: joint46 1
+    100488: joint47
+    100490: joint47 1
+    100492: joint48
+    100494: joint48 1
+    100496: joint49
+    100498: joint49 1
+    100500: joint5
+    100502: joint50
+    100504: joint50 1
+    100506: joint51
+    100508: joint51 1
+    100510: joint6
+    100512: joint60
+    100514: joint68
+    100516: joint69
+    100518: joint7
+    100520: joint70
+    100522: joint70 1
+    100524: joint71
+    100526: joint71 1
+    100528: joint72
+    100530: joint72 1
+    100532: joint73
+    100534: joint73 1
+    100536: joint74
+    100538: joint74 1
+    100540: joint77
+    100542: joint8
+    100544: joint84
+    100546: joint85
+    100548: joint86
+    100550: joint87
+    100552: joint88
+    100554: joint88 1
+    100556: joint89
+    100558: joint89 1
+    100560: joint9
+    100562: joint90
+    100564: joint90 1
+    100566: joint91
+    100568: joint92
+    100570: joint93
+    100572: joint93 1
+    100574: joint95
+    100576: joint96
+    100578: joint97
+    100580: joint98
+    100582: joint99
+    100584: L_eye
+    100586: L_eye 1
+    100588: L_eye_G
+    100590: L_eyecornea
+    100592: Lattice_G
+    100594: LEG_TIP_L
+    100596: LEG_TIP_L 1
+    100598: LEG_TIP_R
+    100600: LEG_TIP_R 1
+    100602: LJ_A
+    100604: LJ_B
+    100606: LJ_C
+    100608: LJ_D
+    100610: LJ_E
+    100612: mawei
+    100614: MaZhong_A
+    100616: MaZhong_B
+    100618: MaZhong_C
+    100620: MaZhong_L_A
+    100622: MaZhong_L_A 1
+    100624: MaZhong_L_A 2
+    100626: MaZhong_L_A 3
+    100628: MaZhong_L_A 4
+    100630: MaZhong_L_A 5
+    100632: MaZhong_L_A 6
+    100634: MaZhong_L_B
+    100636: MaZhong_L_B 1
+    100638: MaZhong_L_B 10
+    100640: MaZhong_L_B 11
+    100642: MaZhong_L_B 12
+    100644: MaZhong_L_B 13
+    100646: MaZhong_L_B 14
+    100648: MaZhong_L_B 15
+    100650: MaZhong_L_B 16
+    100652: MaZhong_L_B 17
+    100654: MaZhong_L_B 18
+    100656: MaZhong_L_B 2
+    100658: MaZhong_L_B 3
+    100660: MaZhong_L_B 4
+    100662: MaZhong_L_B 5
+    100664: MaZhong_L_B 6
+    100666: MaZhong_L_B 7
+    100668: MaZhong_L_B 8
+    100670: MaZhong_L_B 9
+    100672: MaZhong_L_C
+    100674: MaZhong_L_C 1
+    100676: MaZhong_L_C 10
+    100678: MaZhong_L_C 11
+    100680: MaZhong_L_C 12
+    100682: MaZhong_L_C 13
+    100684: MaZhong_L_C 14
+    100686: MaZhong_L_C 15
+    100688: MaZhong_L_C 16
+    100690: MaZhong_L_C 17
+    100692: MaZhong_L_C 18
+    100694: MaZhong_L_C 2
+    100696: MaZhong_L_C 3
+    100698: MaZhong_L_C 4
+    100700: MaZhong_L_C 5
+    100702: MaZhong_L_C 6
+    100704: MaZhong_L_C 7
+    100706: MaZhong_L_C 8
+    100708: MaZhong_L_C 9
+    100710: MaZhong_L_D
+    100712: MaZhong_L_D 1
+    100714: MaZhong_L_D 2
+    100716: MaZhong_L_D 3
+    100718: MaZhong_L_D 4
+    100720: MaZhong_L_D 5
+    100722: MaZhong_R_A
+    100724: MaZhong_R_B
+    100726: MaZhong_R_C
+    100728: mazong
+    100730: Mesh
+    100732: Mesh1
+    100734: Mesh2
+    100736: Mesh3
+    100738: Mesh4
+    100740: Mesh5
+    100742: Mesh6
+    100744: MOV
+    100746: mov
+    100748: MOV 1
+    100750: NECK_A
+    100752: NECK_A 1
+    100754: NECK_B
+    100756: NECK_B 1
+    100758: NECK_C
+    100760: NECK_C 1
+    100762: NECK_D
+    100764: NECK_D 1
+    100766: nurbsCircle1
+    100768: nurbsCircle1 1
+    100770: nurbsCircle1 10
+    100772: nurbsCircle1 11
+    100774: nurbsCircle1 12
+    100776: nurbsCircle1 13
+    100778: nurbsCircle1 14
+    100780: nurbsCircle1 2
+    100782: nurbsCircle1 3
+    100784: nurbsCircle1 4
+    100786: nurbsCircle1 5
+    100788: nurbsCircle1 6
+    100790: nurbsCircle1 7
+    100792: nurbsCircle1 8
+    100794: nurbsCircle1 9
+    100796: nurbsCircle2
+    100798: nurbsCircle2 1
+    100800: nurbsCircle2 2
+    100802: nurbsCircle3
+    100804: nurbsCircle4
+    100806: nurbsCircle5
+    100808: nurbsCircle5 1
+    100810: nurbsToPoly1
+    100812: nurbsToPoly10
+    100814: nurbsToPoly11
+    100816: nurbsToPoly12
+    100818: nurbsToPoly13
+    100820: nurbsToPoly14
+    100822: nurbsToPoly15
+    100824: nurbsToPoly16
+    100826: nurbsToPoly17
+    100828: nurbsToPoly18
+    100830: nurbsToPoly19
+    100832: nurbsToPoly2
+    100834: nurbsToPoly20
+    100836: nurbsToPoly21
+    100838: nurbsToPoly3
+    100840: nurbsToPoly4
+    100842: nurbsToPoly5
+    100844: nurbsToPoly6
+    100846: nurbsToPoly68
+    100848: nurbsToPoly69
+    100850: nurbsToPoly7
+    100852: nurbsToPoly70
+    100854: nurbsToPoly71
+    100856: nurbsToPoly72
+    100858: nurbsToPoly73
+    100860: nurbsToPoly74
+    100862: nurbsToPoly75
+    100864: nurbsToPoly76
+    100866: nurbsToPoly77
+    100868: nurbsToPoly78
+    100870: nurbsToPoly79
+    100872: nurbsToPoly8
+    100874: nurbsToPoly80
+    100876: nurbsToPoly81
+    100878: nurbsToPoly82
+    100880: nurbsToPoly83
+    100882: nurbsToPoly84
+    100884: nurbsToPoly85
+    100886: nurbsToPoly86
+    100888: nurbsToPoly87
+    100890: nurbsToPoly88
+    100892: nurbsToPoly89
+    100894: nurbsToPoly9
+    100896: nurbsToPoly90
+    100898: nurbsToPoly91
+    100900: pCube10
+    100902: pCube11
+    100904: pCube12
+    100906: pCube13
+    100908: pCube14
+    100910: pCube15
+    100912: pCube16
+    100914: pCube18
+    100916: pCube19
+    100918: pCube20
+    100920: pCube37
+    100922: pCube38
+    100924: pCube39
+    100926: pCube4
+    100928: pCube40
+    100930: pCube41
+    100932: pCube42
+    100934: pCube43
+    100936: pCube44
+    100938: pCube45
+    100940: pCube46
+    100942: pCube47
+    100944: pCube48
+    100946: pCube49
+    100948: pCube5
+    100950: pCube50
+    100952: pCube51
+    100954: pCube52
+    100956: pCube6
+    100958: pCube7
+    100960: pCube8
+    100962: pCube9
+    100964: peishi
+    100966: polySurface100
+    100968: polySurface158
+    100970: polySurface160
+    100972: polySurface170
+    100974: polySurface171
+    100976: polySurface172
+    100978: polySurface173
+    100980: polySurface174
+    100982: polySurface175
+    100984: polySurface176
+    100986: polySurface177
+    100988: polySurface178
+    100990: polySurface179
+    100992: polySurface180
+    100994: polySurface181
+    100996: polySurface182
+    100998: polySurface186
+    101000: polySurface199
+    101002: polySurface200
+    101004: polySurface201
+    101006: polySurface202
+    101008: polySurface203
+    101010: polySurface204
+    101012: polySurface205
+    101014: polySurface212
+    101016: polySurface213
+    101018: polySurface214
+    101020: polySurface215
+    101022: polySurface216
+    101024: polySurface217
+    101026: polySurface218
+    101028: polySurface219
+    101030: polySurface220
+    101032: polySurface221
+    101034: polySurface222
+    101036: polySurface223
+    101038: polySurface224
+    101040: polySurface226
+    101042: polySurface227
+    101044: polySurface228
+    101046: polySurface229
+    101048: polySurface230
+    101050: polySurface231
+    101052: polySurface232
+    101054: polySurface233
+    101056: polySurface235
+    101058: polySurface3
+    101060: polySurface4
+    101062: R_eye
+    101064: R_eye 1
+    101066: R_eye_G
+    101068: R_eyecornea
+    101070: RJ_A
+    101072: RJ_B
+    101074: RJ_C
+    101076: RJ_D
+    101078: RJ_E
+    101080: ShangYa
+    101082: sheng
+    101084: Shetou
+    101086: SHOU_TIP_LB
+    101088: SHOU_TIP_LB 1
+    101090: SHOU_TIP_RB
+    101092: SHOU_TIP_RB 1
+    101094: SHOULDER_LF
+    101096: SHOULDER_LF 1
+    101098: SHOULDER_RF
+    101100: SHOULDER_RF 1
+    101102: TORSO
+    101104: torso
+    101106: TORSO 1
+    101108: transform3
+    101110: transform4
+    101112: transform5
+    101114: transform6
+    101116: transform7
+    101118: transform8
+    101120: transform9
+    101122: wei_01
+    101124: wei_01 1
+    101126: wei_02
+    101128: wei_02 1
+    101130: wei_02 2
+    101132: wei_03
+    101134: wei_03 1
+    101136: wei_03 2
+    101138: wei_04
+    101140: wei_04 1
+    101142: wei_04 2
+    101144: wei_05
+    101146: wei_05 1
+    101148: wei_05 2
+    101150: wei_06
+    101152: wei_06 1
+    101154: wei_06 2
+    101156: Xia_ya
+    101158: ya
+    400000: aa
+    400002: BaiMa
+    400004: BaiMa_zhan
+    400006: body
+    400008: CENTER_A
+    400010: CENTER_A 1
+    400012: CENTER_B
+    400014: CENTER_B 1
+    400016: CHEST_A
+    400018: CHEST_A 1
+    400020: cluster10Handle
+    400022: cluster11Handle
+    400024: cluster12Handle
+    400026: cluster13Handle
+    400028: cluster14Handle
+    400030: cluster15Handle
+    400032: cluster1Handle
+    400034: cluster2Handle
+    400036: cluster3Handle
+    400038: cluster4Handle
+    400040: cluster6Handle
+    400042: cluster7Handle
+    400044: cluster8Handle
+    400046: cluster9Handle
+    400048: CONSTRAIN
+    400050: constrain
+    400052: constrain 1
+    400054: curve1
+    400056: curve3
+    400058: curve4
+    400060: curve5
+    400062: curve5 1
+    400064: curve5 2
+    400066: curve5 3
+    400068: curve5 4
+    400070: curve6
+    400072: curve6 1
+    400074: curve6 2
+    400076: curve6 3
+    400078: curve6 4
+    400080: dd
+    400082: deng_l
+    400084: deng_r
+    400086: ear_l
+    400088: ear_l 1
+    400090: ear_r
+    400092: ear_r 1
+    400094: Eye
+    400096: ffd1Base
+    400098: ffd1Lattice
+    400100: ffd2Base
+    400102: ffd2Lattice
+    400104: FOOT_LB
+    400106: FOOT_LB 1
+    400108: FOOT_LF
+    400110: FOOT_LF 1
+    400112: FOOT_RB
+    400114: FOOT_RB 1
+    400116: FOOT_RF
+    400118: FOOT_RF 1
+    400120: geo
+    400122: group14
+    400124: group15
+    400126: group16
+    400128: group17
+    400130: group18
+    400132: group20
+    400134: group22
+    400136: group23
+    400138: group24
+    400140: group25
+    400142: group26
+    400144: group27
+    400146: group29
+    400148: group29 1
+    400150: group29 2
+    400152: group29 3
+    400154: group29 4
+    400156: group29 5
+    400158: group29 6
+    400160: group29 7
+    400162: group29 8
+    400164: group3
+    400166: group30
+    400168: group31
+    400170: group31 1
+    400172: group31 2
+    400174: group31 3
+    400176: group32
+    400178: group33
+    400180: group34
+    400182: group34 1
+    400184: group34 2
+    400186: group35
+    400188: group36
+    400190: group37
+    400192: group38
+    400194: group4
+    400196: group40
+    400198: group41
+    400200: group42
+    400202: group43
+    400204: group44
+    400206: group45
+    400208: group46
+    400210: group47
+    400212: group48
+    400214: group5
+    400216: group55
+    400218: group56
+    400220: group57
+    400222: group58
+    400224: group59
+    400226: group6
+    400228: group60
+    400230: group69
+    400232: group7
+    400234: group70
+    400236: group71
+    400238: group77
+    400240: group78
+    400242: group79
+    400244: group8
+    400246: group80
+    400248: Hanches_dn
+    400250: Hanches_dn 1
+    400252: horse
+    400254: //RootNode
+    400256: jiangSheng
+    400258: JiangSheng_Ctl
+    400260: jiangSheng_L
+    400262: JiangSheng_R
+    400264: joint1
+    400266: joint10
+    400268: joint100
+    400270: joint101
+    400272: joint102
+    400274: joint103
+    400276: joint104
+    400278: joint105
+    400280: joint106
+    400282: joint107
+    400284: joint108
+    400286: joint109
+    400288: joint11
+    400290: joint110
+    400292: joint111
+    400294: joint112
+    400296: joint113
+    400298: joint114
+    400300: joint115
+    400302: joint116
+    400304: joint117
+    400306: joint118
+    400308: joint119
+    400310: joint12
+    400312: joint120
+    400314: joint121
+    400316: joint121 1
+    400318: joint122
+    400320: joint122 1
+    400322: joint123
+    400324: joint123 1
+    400326: joint124
+    400328: joint124 1
+    400330: joint125
+    400332: joint125 1
+    400334: joint126
+    400336: joint126 1
+    400338: joint127
+    400340: joint127 1
+    400342: joint128
+    400344: joint128 1
+    400346: joint13
+    400348: joint130
+    400350: joint131
+    400352: joint131 1
+    400354: joint132
+    400356: joint132 1
+    400358: joint133
+    400360: joint133 1
+    400362: joint134
+    400364: joint134 1
+    400366: joint135
+    400368: joint135 1
+    400370: joint136
+    400372: joint136 1
+    400374: joint137
+    400376: joint137 1
+    400378: joint139
+    400380: joint14
+    400382: joint14 1
+    400384: joint140
+    400386: joint140 1
+    400388: joint141
+    400390: joint141 1
+    400392: joint142
+    400394: joint142 1
+    400396: joint143
+    400398: joint143 1
+    400400: joint144
+    400402: joint144 1
+    400404: joint145
+    400406: joint145 1
+    400408: joint146
+    400410: joint146 1
+    400412: joint15
+    400414: joint156
+    400416: joint16
+    400418: joint166
+    400420: joint17
+    400422: joint176
+    400424: joint18
+    400426: joint187
+    400428: joint19
+    400430: joint2
+    400432: joint20
+    400434: joint21
+    400436: joint22
+    400438: joint23
+    400440: joint24
+    400442: joint25
+    400444: joint26
+    400446: joint27
+    400448: joint28
+    400450: joint29
+    400452: joint29 1
+    400454: joint3
+    400456: joint30
+    400458: joint30 1
+    400460: joint31
+    400462: joint31 1
+    400464: joint32
+    400466: joint32 1
+    400468: joint33
+    400470: joint33 1
+    400472: joint34
+    400474: joint34 1
+    400476: joint35
+    400478: joint35 1
+    400480: joint4
+    400482: joint45
+    400484: joint46
+    400486: joint46 1
+    400488: joint47
+    400490: joint47 1
+    400492: joint48
+    400494: joint48 1
+    400496: joint49
+    400498: joint49 1
+    400500: joint5
+    400502: joint50
+    400504: joint50 1
+    400506: joint51
+    400508: joint51 1
+    400510: joint6
+    400512: joint60
+    400514: joint68
+    400516: joint69
+    400518: joint7
+    400520: joint70
+    400522: joint70 1
+    400524: joint71
+    400526: joint71 1
+    400528: joint72
+    400530: joint72 1
+    400532: joint73
+    400534: joint73 1
+    400536: joint74
+    400538: joint74 1
+    400540: joint77
+    400542: joint8
+    400544: joint84
+    400546: joint85
+    400548: joint86
+    400550: joint87
+    400552: joint88
+    400554: joint88 1
+    400556: joint89
+    400558: joint89 1
+    400560: joint9
+    400562: joint90
+    400564: joint90 1
+    400566: joint91
+    400568: joint92
+    400570: joint93
+    400572: joint93 1
+    400574: joint95
+    400576: joint96
+    400578: joint97
+    400580: joint98
+    400582: joint99
+    400584: L_eye
+    400586: L_eye 1
+    400588: L_eye_G
+    400590: L_eyecornea
+    400592: Lattice_G
+    400594: LEG_TIP_L
+    400596: LEG_TIP_L 1
+    400598: LEG_TIP_R
+    400600: LEG_TIP_R 1
+    400602: LJ_A
+    400604: LJ_B
+    400606: LJ_C
+    400608: LJ_D
+    400610: LJ_E
+    400612: mawei
+    400614: MaZhong_A
+    400616: MaZhong_B
+    400618: MaZhong_C
+    400620: MaZhong_L_A
+    400622: MaZhong_L_A 1
+    400624: MaZhong_L_A 2
+    400626: MaZhong_L_A 3
+    400628: MaZhong_L_A 4
+    400630: MaZhong_L_A 5
+    400632: MaZhong_L_A 6
+    400634: MaZhong_L_B
+    400636: MaZhong_L_B 1
+    400638: MaZhong_L_B 10
+    400640: MaZhong_L_B 11
+    400642: MaZhong_L_B 12
+    400644: MaZhong_L_B 13
+    400646: MaZhong_L_B 14
+    400648: MaZhong_L_B 15
+    400650: MaZhong_L_B 16
+    400652: MaZhong_L_B 17
+    400654: MaZhong_L_B 18
+    400656: MaZhong_L_B 2
+    400658: MaZhong_L_B 3
+    400660: MaZhong_L_B 4
+    400662: MaZhong_L_B 5
+    400664: MaZhong_L_B 6
+    400666: MaZhong_L_B 7
+    400668: MaZhong_L_B 8
+    400670: MaZhong_L_B 9
+    400672: MaZhong_L_C
+    400674: MaZhong_L_C 1
+    400676: MaZhong_L_C 10
+    400678: MaZhong_L_C 11
+    400680: MaZhong_L_C 12
+    400682: MaZhong_L_C 13
+    400684: MaZhong_L_C 14
+    400686: MaZhong_L_C 15
+    400688: MaZhong_L_C 16
+    400690: MaZhong_L_C 17
+    400692: MaZhong_L_C 18
+    400694: MaZhong_L_C 2
+    400696: MaZhong_L_C 3
+    400698: MaZhong_L_C 4
+    400700: MaZhong_L_C 5
+    400702: MaZhong_L_C 6
+    400704: MaZhong_L_C 7
+    400706: MaZhong_L_C 8
+    400708: MaZhong_L_C 9
+    400710: MaZhong_L_D
+    400712: MaZhong_L_D 1
+    400714: MaZhong_L_D 2
+    400716: MaZhong_L_D 3
+    400718: MaZhong_L_D 4
+    400720: MaZhong_L_D 5
+    400722: MaZhong_R_A
+    400724: MaZhong_R_B
+    400726: MaZhong_R_C
+    400728: mazong
+    400730: Mesh
+    400732: Mesh1
+    400734: Mesh2
+    400736: Mesh3
+    400738: Mesh4
+    400740: Mesh5
+    400742: Mesh6
+    400744: MOV
+    400746: mov
+    400748: MOV 1
+    400750: NECK_A
+    400752: NECK_A 1
+    400754: NECK_B
+    400756: NECK_B 1
+    400758: NECK_C
+    400760: NECK_C 1
+    400762: NECK_D
+    400764: NECK_D 1
+    400766: nurbsCircle1
+    400768: nurbsCircle1 1
+    400770: nurbsCircle1 10
+    400772: nurbsCircle1 11
+    400774: nurbsCircle1 12
+    400776: nurbsCircle1 13
+    400778: nurbsCircle1 14
+    400780: nurbsCircle1 2
+    400782: nurbsCircle1 3
+    400784: nurbsCircle1 4
+    400786: nurbsCircle1 5
+    400788: nurbsCircle1 6
+    400790: nurbsCircle1 7
+    400792: nurbsCircle1 8
+    400794: nurbsCircle1 9
+    400796: nurbsCircle2
+    400798: nurbsCircle2 1
+    400800: nurbsCircle2 2
+    400802: nurbsCircle3
+    400804: nurbsCircle4
+    400806: nurbsCircle5
+    400808: nurbsCircle5 1
+    400810: nurbsToPoly1
+    400812: nurbsToPoly10
+    400814: nurbsToPoly11
+    400816: nurbsToPoly12
+    400818: nurbsToPoly13
+    400820: nurbsToPoly14
+    400822: nurbsToPoly15
+    400824: nurbsToPoly16
+    400826: nurbsToPoly17
+    400828: nurbsToPoly18
+    400830: nurbsToPoly19
+    400832: nurbsToPoly2
+    400834: nurbsToPoly20
+    400836: nurbsToPoly21
+    400838: nurbsToPoly3
+    400840: nurbsToPoly4
+    400842: nurbsToPoly5
+    400844: nurbsToPoly6
+    400846: nurbsToPoly68
+    400848: nurbsToPoly69
+    400850: nurbsToPoly7
+    400852: nurbsToPoly70
+    400854: nurbsToPoly71
+    400856: nurbsToPoly72
+    400858: nurbsToPoly73
+    400860: nurbsToPoly74
+    400862: nurbsToPoly75
+    400864: nurbsToPoly76
+    400866: nurbsToPoly77
+    400868: nurbsToPoly78
+    400870: nurbsToPoly79
+    400872: nurbsToPoly8
+    400874: nurbsToPoly80
+    400876: nurbsToPoly81
+    400878: nurbsToPoly82
+    400880: nurbsToPoly83
+    400882: nurbsToPoly84
+    400884: nurbsToPoly85
+    400886: nurbsToPoly86
+    400888: nurbsToPoly87
+    400890: nurbsToPoly88
+    400892: nurbsToPoly89
+    400894: nurbsToPoly9
+    400896: nurbsToPoly90
+    400898: nurbsToPoly91
+    400900: pCube10
+    400902: pCube11
+    400904: pCube12
+    400906: pCube13
+    400908: pCube14
+    400910: pCube15
+    400912: pCube16
+    400914: pCube18
+    400916: pCube19
+    400918: pCube20
+    400920: pCube37
+    400922: pCube38
+    400924: pCube39
+    400926: pCube4
+    400928: pCube40
+    400930: pCube41
+    400932: pCube42
+    400934: pCube43
+    400936: pCube44
+    400938: pCube45
+    400940: pCube46
+    400942: pCube47
+    400944: pCube48
+    400946: pCube49
+    400948: pCube5
+    400950: pCube50
+    400952: pCube51
+    400954: pCube52
+    400956: pCube6
+    400958: pCube7
+    400960: pCube8
+    400962: pCube9
+    400964: peishi
+    400966: polySurface100
+    400968: polySurface158
+    400970: polySurface160
+    400972: polySurface170
+    400974: polySurface171
+    400976: polySurface172
+    400978: polySurface173
+    400980: polySurface174
+    400982: polySurface175
+    400984: polySurface176
+    400986: polySurface177
+    400988: polySurface178
+    400990: polySurface179
+    400992: polySurface180
+    400994: polySurface181
+    400996: polySurface182
+    400998: polySurface186
+    401000: polySurface199
+    401002: polySurface200
+    401004: polySurface201
+    401006: polySurface202
+    401008: polySurface203
+    401010: polySurface204
+    401012: polySurface205
+    401014: polySurface212
+    401016: polySurface213
+    401018: polySurface214
+    401020: polySurface215
+    401022: polySurface216
+    401024: polySurface217
+    401026: polySurface218
+    401028: polySurface219
+    401030: polySurface220
+    401032: polySurface221
+    401034: polySurface222
+    401036: polySurface223
+    401038: polySurface224
+    401040: polySurface226
+    401042: polySurface227
+    401044: polySurface228
+    401046: polySurface229
+    401048: polySurface230
+    401050: polySurface231
+    401052: polySurface232
+    401054: polySurface233
+    401056: polySurface235
+    401058: polySurface3
+    401060: polySurface4
+    401062: R_eye
+    401064: R_eye 1
+    401066: R_eye_G
+    401068: R_eyecornea
+    401070: RJ_A
+    401072: RJ_B
+    401074: RJ_C
+    401076: RJ_D
+    401078: RJ_E
+    401080: ShangYa
+    401082: sheng
+    401084: Shetou
+    401086: SHOU_TIP_LB
+    401088: SHOU_TIP_LB 1
+    401090: SHOU_TIP_RB
+    401092: SHOU_TIP_RB 1
+    401094: SHOULDER_LF
+    401096: SHOULDER_LF 1
+    401098: SHOULDER_RF
+    401100: SHOULDER_RF 1
+    401102: TORSO
+    401104: torso
+    401106: TORSO 1
+    401108: transform3
+    401110: transform4
+    401112: transform5
+    401114: transform6
+    401116: transform7
+    401118: transform8
+    401120: transform9
+    401122: wei_01
+    401124: wei_01 1
+    401126: wei_02
+    401128: wei_02 1
+    401130: wei_02 2
+    401132: wei_03
+    401134: wei_03 1
+    401136: wei_03 2
+    401138: wei_04
+    401140: wei_04 1
+    401142: wei_04 2
+    401144: wei_05
+    401146: wei_05 1
+    401148: wei_05 2
+    401150: wei_06
+    401152: wei_06 1
+    401154: wei_06 2
+    401156: Xia_ya
+    401158: ya
+    2100000: ya1
+    2100002: she
+    2100004: blinn7
+    2100006: blinn9
+    2100008: blinn8
+    2100010: blinn10
+    2100012: BaiMa_an
+    2100014: BaiMa_tong
+    2100016: phongE1
+    2300000: pCube10
+    2300002: pCube11
+    2300004: pCube12
+    2300006: pCube13
+    2300008: pCube14
+    2300010: pCube15
+    2300012: pCube16
+    2300014: pCube18
+    2300016: pCube19
+    2300018: pCube20
+    2300020: pCube37
+    2300022: pCube38
+    2300024: pCube39
+    2300026: pCube4
+    2300028: pCube40
+    2300030: pCube41
+    2300032: pCube42
+    2300034: pCube43
+    2300036: pCube44
+    2300038: pCube45
+    2300040: pCube46
+    2300042: pCube47
+    2300044: pCube48
+    2300046: pCube49
+    2300048: pCube5
+    2300050: pCube50
+    2300052: pCube51
+    2300054: pCube52
+    2300056: pCube6
+    2300058: pCube7
+    2300060: pCube8
+    2300062: pCube9
+    2300064: polySurface235
+    2300066: polySurface3
+    2300068: polySurface4
+    2300070: Shetou
+    3300000: pCube10
+    3300002: pCube11
+    3300004: pCube12
+    3300006: pCube13
+    3300008: pCube14
+    3300010: pCube15
+    3300012: pCube16
+    3300014: pCube18
+    3300016: pCube19
+    3300018: pCube20
+    3300020: pCube37
+    3300022: pCube38
+    3300024: pCube39
+    3300026: pCube4
+    3300028: pCube40
+    3300030: pCube41
+    3300032: pCube42
+    3300034: pCube43
+    3300036: pCube44
+    3300038: pCube45
+    3300040: pCube46
+    3300042: pCube47
+    3300044: pCube48
+    3300046: pCube49
+    3300048: pCube5
+    3300050: pCube50
+    3300052: pCube51
+    3300054: pCube52
+    3300056: pCube6
+    3300058: pCube7
+    3300060: pCube8
+    3300062: pCube9
+    3300064: polySurface235
+    3300066: polySurface3
+    3300068: polySurface4
+    3300070: Shetou
+    4300000: pCube7
+    4300002: pCube8
+    4300004: pCube9
+    4300006: pCube4
+    4300008: pCube5
+    4300010: pCube6
+    4300012: pCube37
+    4300014: pCube38
+    4300016: pCube39
+    4300018: pCube40
+    4300020: pCube41
+    4300022: pCube42
+    4300024: pCube43
+    4300026: pCube44
+    4300028: Shetou
+    4300030: polySurface4
+    4300032: pCube10
+    4300034: pCube11
+    4300036: pCube12
+    4300038: pCube13
+    4300040: pCube14
+    4300042: pCube15
+    4300044: pCube16
+    4300046: pCube18
+    4300048: pCube19
+    4300050: pCube20
+    4300052: pCube45
+    4300054: pCube46
+    4300056: pCube47
+    4300058: pCube48
+    4300060: pCube49
+    4300062: pCube50
+    4300064: pCube51
+    4300066: pCube52
+    4300068: polySurface3
+    4300070: body
+    4300072: nurbsToPoly68
+    4300074: nurbsToPoly69
+    4300076: nurbsToPoly70
+    4300078: nurbsToPoly71
+    4300080: nurbsToPoly72
+    4300082: nurbsToPoly73
+    4300084: nurbsToPoly74
+    4300086: nurbsToPoly75
+    4300088: nurbsToPoly76
+    4300090: nurbsToPoly77
+    4300092: nurbsToPoly78
+    4300094: nurbsToPoly79
+    4300096: nurbsToPoly80
+    4300098: nurbsToPoly81
+    4300100: nurbsToPoly82
+    4300102: nurbsToPoly83
+    4300104: nurbsToPoly84
+    4300106: nurbsToPoly85
+    4300108: nurbsToPoly86
+    4300110: nurbsToPoly87
+    4300112: nurbsToPoly88
+    4300114: nurbsToPoly89
+    4300116: nurbsToPoly90
+    4300118: nurbsToPoly91
+    4300120: nurbsToPoly1
+    4300122: nurbsToPoly2
+    4300124: nurbsToPoly3
+    4300126: nurbsToPoly4
+    4300128: nurbsToPoly5
+    4300130: nurbsToPoly6
+    4300132: nurbsToPoly7
+    4300134: nurbsToPoly8
+    4300136: nurbsToPoly9
+    4300138: nurbsToPoly10
+    4300140: nurbsToPoly11
+    4300142: nurbsToPoly12
+    4300144: nurbsToPoly13
+    4300146: nurbsToPoly14
+    4300148: nurbsToPoly15
+    4300150: nurbsToPoly16
+    4300152: nurbsToPoly17
+    4300154: nurbsToPoly18
+    4300156: nurbsToPoly19
+    4300158: nurbsToPoly20
+    4300160: nurbsToPoly21
+    4300162: polySurface158
+    4300164: polySurface160
+    4300166: polySurface170
+    4300168: polySurface171
+    4300170: polySurface172
+    4300172: polySurface173
+    4300174: polySurface174
+    4300176: polySurface175
+    4300178: polySurface176
+    4300180: polySurface177
+    4300182: polySurface178
+    4300184: polySurface179
+    4300186: polySurface180
+    4300188: polySurface181
+    4300190: polySurface182
+    4300192: polySurface186
+    4300194: polySurface199
+    4300196: polySurface200
+    4300198: polySurface201
+    4300200: polySurface202
+    4300202: polySurface203
+    4300204: polySurface204
+    4300206: polySurface205
+    4300208: polySurface212
+    4300210: polySurface213
+    4300212: polySurface214
+    4300214: polySurface215
+    4300216: polySurface216
+    4300218: polySurface217
+    4300220: polySurface218
+    4300222: polySurface219
+    4300224: polySurface220
+    4300226: polySurface221
+    4300228: polySurface222
+    4300230: polySurface223
+    4300232: polySurface224
+    4300234: polySurface226
+    4300236: polySurface227
+    4300238: polySurface228
+    4300240: polySurface229
+    4300242: polySurface230
+    4300244: polySurface231
+    4300246: polySurface232
+    4300248: polySurface233
+    4300250: polySurface235
+    7400000: Take 001
+    9500000: //RootNode
+    13700000: body
+    13700002: nurbsToPoly1
+    13700004: nurbsToPoly10
+    13700006: nurbsToPoly11
+    13700008: nurbsToPoly12
+    13700010: nurbsToPoly13
+    13700012: nurbsToPoly14
+    13700014: nurbsToPoly15
+    13700016: nurbsToPoly16
+    13700018: nurbsToPoly17
+    13700020: nurbsToPoly18
+    13700022: nurbsToPoly19
+    13700024: nurbsToPoly2
+    13700026: nurbsToPoly20
+    13700028: nurbsToPoly21
+    13700030: nurbsToPoly3
+    13700032: nurbsToPoly4
+    13700034: nurbsToPoly5
+    13700036: nurbsToPoly6
+    13700038: nurbsToPoly68
+    13700040: nurbsToPoly69
+    13700042: nurbsToPoly7
+    13700044: nurbsToPoly70
+    13700046: nurbsToPoly71
+    13700048: nurbsToPoly72
+    13700050: nurbsToPoly73
+    13700052: nurbsToPoly74
+    13700054: nurbsToPoly75
+    13700056: nurbsToPoly76
+    13700058: nurbsToPoly77
+    13700060: nurbsToPoly78
+    13700062: nurbsToPoly79
+    13700064: nurbsToPoly8
+    13700066: nurbsToPoly80
+    13700068: nurbsToPoly81
+    13700070: nurbsToPoly82
+    13700072: nurbsToPoly83
+    13700074: nurbsToPoly84
+    13700076: nurbsToPoly85
+    13700078: nurbsToPoly86
+    13700080: nurbsToPoly87
+    13700082: nurbsToPoly88
+    13700084: nurbsToPoly89
+    13700086: nurbsToPoly9
+    13700088: nurbsToPoly90
+    13700090: nurbsToPoly91
+    13700092: polySurface158
+    13700094: polySurface160
+    13700096: polySurface170
+    13700098: polySurface171
+    13700100: polySurface172
+    13700102: polySurface173
+    13700104: polySurface174
+    13700106: polySurface175
+    13700108: polySurface176
+    13700110: polySurface177
+    13700112: polySurface178
+    13700114: polySurface179
+    13700116: polySurface180
+    13700118: polySurface181
+    13700120: polySurface182
+    13700122: polySurface186
+    13700124: polySurface199
+    13700126: polySurface200
+    13700128: polySurface201
+    13700130: polySurface202
+    13700132: polySurface203
+    13700134: polySurface204
+    13700136: polySurface205
+    13700138: polySurface212
+    13700140: polySurface213
+    13700142: polySurface214
+    13700144: polySurface215
+    13700146: polySurface216
+    13700148: polySurface217
+    13700150: polySurface218
+    13700152: polySurface219
+    13700154: polySurface220
+    13700156: polySurface221
+    13700158: polySurface222
+    13700160: polySurface223
+    13700162: polySurface224
+    13700164: polySurface226
+    13700166: polySurface227
+    13700168: polySurface228
+    13700170: polySurface229
+    13700172: polySurface230
+    13700174: polySurface231
+    13700176: polySurface232
+    13700178: polySurface233
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
