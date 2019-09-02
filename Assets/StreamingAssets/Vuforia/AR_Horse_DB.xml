@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
   <Tracking>
-    <ImageTarget name="tree" size="0.097000 0.145135" />
-    <ImageTarget name="red" size="0.075000 0.119772" />
+    <ImageTarget name="SpadesOf5" size="0.062230 0.093321" />
     <ImageTarget name="main_wheel_demo" size="0.150000 0.148125" />
   </Tracking>
 </QCARConfig>

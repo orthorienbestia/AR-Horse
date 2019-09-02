@@ -15,6 +15,10 @@ public class Model : MonoBehaviour, ITrackableEventHandler
         {
             mTrackableBehaviour.RegisterTrackableEventHandler(this);
         }
+
+        var vuforia = VuforiaARController.Instance;
+        vuforia.RegisterVuforiaStartedCallback(OnVuforiaStarted);
+        vuforia.RegisterOnPauseCallback(OnPaused);
     }
 
     public void OnTrackableStateChanged(TrackableBehaviour.Status previousStatus, TrackableBehaviour.Status newStatus)
@@ -32,6 +36,22 @@ public class Model : MonoBehaviour, ITrackableEventHandler
             // Stop audio when target is lost
             print("Stopped");
             _frameAnimator.Play("idle");
+        }
+    }
+
+    private void OnVuforiaStarted()
+    {
+        CameraDevice.Instance.SetFocusMode(
+            CameraDevice.FocusMode.FOCUS_MODE_CONTINUOUSAUTO);
+    }
+
+    private void OnPaused(bool paused)
+    {
+        if (!paused) // resumed
+        {
+            // Set again autofocus mode when app is resumed
+            CameraDevice.Instance.SetFocusMode(
+                CameraDevice.FocusMode.FOCUS_MODE_CONTINUOUSAUTO);
         }
     }
 }
