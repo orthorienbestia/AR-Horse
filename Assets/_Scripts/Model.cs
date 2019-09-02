@@ -25,11 +25,13 @@ public class Model : MonoBehaviour, ITrackableEventHandler
         {
             // Play audio when target is found
             print("Detected");
+            _frameAnimator.Play("play");
         }
         else
         {
             // Stop audio when target is lost
             print("Stopped");
+            _frameAnimator.Play("idle");
         }
     }
 }
